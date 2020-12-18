@@ -1,0 +1,38 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+* {
+  background-color: #111827;
+  margin: 0;
+  padding: 0;
+}
+
+.app__header {
+  color: #064e3b;
+  margin: 1rem;
+  text-align: center;
+}
+.btn button {
+  color: white;
+  padding: 0.5rem;
+  margin: 1rem;
+  letter-spacing: 0.5rem;
+  font-size: 1rem;
+  border: 3px solid #064e3b;
+  width: 200px;
+  font-weight: 200;
+  border-radius: 5px;
+}
+.app__songList {
+  border-radius: 5px;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  color: white;
+  padding: 0.8rem;
+  text-align: left;
+  background-color: #064e3b;
+}
+.app__songName {
+  background-color: #064e3b;
+}
