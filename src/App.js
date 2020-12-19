@@ -6,19 +6,19 @@ var songs = {
   All: [
     {
       name: "In the End",
-      singer: "Chester Bennigton"
+      singer: "Chester Bennigton",
     },
     {
       name: "Dance Monkey",
-      singer: "Tones & I"
+      singer: "Tones & I",
     },
     {
       name: "Here we are",
-      singer: "Bryan Adams"
+      singer: "Bryan Adams",
     },
     {
       name: "Vaaqif",
-      singer: "The Local Train"
+      singer: "The Local Train",
     },
     {
       name: "Shayaad",
@@ -26,63 +26,63 @@ var songs = {
     },
     {
       name: "Madhubala",
-      singer: "Amit Trivedi"
+      singer: "Amit Trivedi",
     },
     {
       name: "Insaaf ka Qatil",
-      singer: "EPR"
+      singer: "EPR",
     },
     {
       name: "Saath ya khilaaf",
-      singer: "Kr$na, Raaftar"
+      singer: "Kr$na, Raaftar",
     },
     {
       name: "Remember the name",
-      singer: "Mike Shinoda"
+      singer: "Mike Shinoda",
     }
   ],
   English: [
     {
       name: "In the End",
-      singer: "Chester Bennigton"
+      singer: "Chester Bennigton",
     },
     {
       name: "Dance Monkey",
-      singer: "Tones & I"
+      singer: "Tones & I",
     },
     {
       name: "Here we are",
-      singer: "Bryan Adams"
+      singer: "Bryan Adams",
     }
   ],
   Hindi: [
     {
       name: "Vaaqif",
-      singer: "The Local Train"
+      singer: "The Local Train",
     },
 
     {
       name: "Shayaad",
-      singer: "Taba Chake"
+      singer: "Taba Chake",
     },
     {
       name: "Madhubala",
-      singer: "Amit Trivedi"
+      singer: "Amit Trivedi",
     }
   ],
 
   Rap: [
     {
       name: "Insaaf ka Qatil",
-      singer: "EPR"
+      singer: "EPR",
     },
     {
       name: "Saath ya khilaaf",
-      singer: "Kr$na, Raaftar"
+      singer: "Kr$na, Raaftar",
     },
     {
       name: "Remember the name",
-      singer: "Mike Shinoda"
+      singer: "Mike Shinoda",
     }
   ]
 };
